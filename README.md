@@ -31,12 +31,12 @@ Components
 ----------
 
 The project is structured into multiple files:
-1. [algo.h](#algo-h) Contains algorithmic functions for data manipulation.
-2. [book.h](#book-h) Defines the structure and properties of a Book.
-3. [database.h](#database-h) Manages the database operations.
-4. [hashtable.h](#hashtable-h) Implements a hash table for efficient data retrieval
-5. [list.h](#list-h) Provides functionalities for linked lists.
-6. [rbtree.h](#rbtree-h) Implements a Red-Black Tree for sorted data storage.
+1. [algo.h](#algoh) Contains algorithmic functions for data manipulation.
+2. [book.h](#bookh) Defines the structure and properties of a Book.
+3. [database.h](#databaseh) Manages the database operations.
+4. [hashtable.h](#hashtableh) Implements a hash table for efficient data retrieval
+5. [list.h](#listh) Provides functionalities for linked lists.
+6. [rbtree.h](#rbtreeh) Implements a Red-Black Tree for sorted data storage.
 
 ## algo.h
 
