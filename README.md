@@ -196,21 +196,27 @@ Usage
 there is a report in Russian
 
 When the program starts, the Files window appears, in which the user can import and export data for directories. There are tabs on top, from which you can access windows for working with directories and viewing data structures.
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/b6d27cdc-249d-4990-99f7-ecd9655253c0)
 
 By going to the "Books" tab, you can observe the functionality of working with the "Books" directory. The picture shows the display window of the reference book "Books".
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/0c189ce0-6b41-4f00-acb8-60e878bc11d6)
 
 To perform a search in the "Books" directory, enter one of the four fields, and then click one of the "Find" buttons. To reset the search, click the "Clear search" button. The fields for searching in the Books directory are shown in the figure.
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/c0cb2050-4255-4493-bb97-23aa2cfefc21)
 
 To add/remove Books from the directory(s), enter the fields for adding / deleting and click on the "Add" / "Delete" button. An example of adding/removing is shown in the figure
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/6fabcb00-6765-4ae8-a0de-a098ccd41e5c)
 
 To perform a search using two parameters (the title of the book and the author of the book), go to the "Search" tab. To find a book, enter the title and author in the appropriate fields and click the "Find" button. To clear the search results, click the "Clear" button.
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/aeef23da-a3d4-4c13-ac3c-f78d790b7412)
 
 Going to the "Debugging" window, we can observe the functionality for displaying data structures, where each button is responsible for displaying the corresponding structure. The Debugging window is shown in the figure
+
 ![изображение](https://github.com/srv328/the-management-of-book-related-data/assets/75514740/9cb92ae4-6055-49b6-857c-8e8558481bf1)
 
 
