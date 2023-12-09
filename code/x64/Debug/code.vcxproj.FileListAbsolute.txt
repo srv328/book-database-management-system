@@ -1,0 +1,16 @@
+C:\Users\shevelev.rv\Desktop\Курсовая\code\x64\Debug\code.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\Курсовая\code\x64\Debug\code.MyForm.resources
+C:\Users\shevelev.rv\Desktop\Курсовая\code\x64\Debug\code.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\Курсовая\code\x64\Debug\code.exe
+C:\Users\shevelev.rv\Desktop\гг\Курсовая\code\x64\Debug\code.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\гг\Курсовая\code\x64\Debug\code.MyForm.resources
+C:\Users\shevelev.rv\Desktop\гг\Курсовая\code\x64\Debug\code.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\гг\Курсовая\code\x64\Debug\code.exe
+C:\Users\shevelev.rv\Desktop\FEFU\Курсач\code\x64\Debug\code.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\FEFU\Курсач\code\x64\Debug\code.MyForm.resources
+C:\Users\shevelev.rv\Desktop\FEFU\Курсач\code\x64\Debug\code.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\FEFU\Курсач\code\x64\Debug\code.exe
+C:\Users\shevelev.rv\book-database-management-system\code\x64\Debug\code.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\book-database-management-system\code\x64\Debug\code.MyForm.resources
+C:\Users\shevelev.rv\book-database-management-system\code\x64\Debug\code.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\book-database-management-system\code\x64\Debug\code.exe
