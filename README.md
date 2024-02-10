@@ -239,6 +239,7 @@ Going to the "Debugging" window, we can observe the functionality for displaying
 Code Structure
 --------------
 
+
 The codebase is organized into several sections:
 
 *   **Error Handling:** Functions to display error messages and handle exceptions.
